@@ -8,6 +8,10 @@ UUID Shortener ![License MIT](https://go-shields.herokuapp.com/license-MIT-yello
 
 Convert UUID 32-character hex string into a Base32 short string and back.
 
+### Modification
+Drop cocoapods.
+Add SPM support.
+Add tvOS support.
 
 ### Usage
 #### Generate new UUID
